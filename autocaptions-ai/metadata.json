@@ -1,0 +1,6 @@
+{
+  "name": "AutoCaptions AI",
+  "description": "AI-powered automatic video caption generator supporting multi-lingual transcription (including Hinglish and Benglish), subtitle editing, custom styling, SRT/VTT/ASS export, and burned-in video downloading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
